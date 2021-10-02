@@ -5,7 +5,7 @@ They can leverage assets like Fiat currencies like USD, real-world asset(Commodi
 or build Index of available Indexes like DeFi and sNIKKI.
  Anybody can build index for their desired asset token with desired weightage and can let others invest in same Index. People can add upto 8 token per Index. 
 
-Subgraph Deployed on https://thegraph.com/explorer/subgraph/adi99/subgraph-sythindex. It uses the subgraph to query existing Indexes, show details of the indexes and User data.
+Subgraph Deployed on https://graph.t.hmny.io:8000/subgraphs/name/harmony/SynthIndexes. It uses the subgraph to query existing Indexes, show details of the indexes and User data.
 The Subgraph has given Dapps the ability to query data on Ethereum and IPFS, and access data easily. This Dapp uses the subgraph to show existing
 Indexes and their details acording to user's need and show their share in Indexes.
 
