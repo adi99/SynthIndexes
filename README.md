@@ -1,7 +1,7 @@
 # Synthetix Index Management
 
 Index management interface for users to add and remove liquidity to Synthetix Assests. People can also invest in Existing Index or create a new Index based on their requirements. 
-They can leverage assets like Fiat currencies like USD, real-world asset(Commodity) like Gold, short position on Assets(iSynths), crypto Synths like sAave 
+They can leverage assets like Fiat currencies like USD, cryto Tokens, real-world asset(Commodity) like Gold, short position on Assets(iSynths), crypto Synths like sAave 
 or build Index of available Indexes like DeFi and sNIKKI.
  Anybody can build index for their desired asset token with desired weightage and can let others invest in same Index. People can add upto 8 token per Index. 
 
